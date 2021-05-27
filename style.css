@@ -1,0 +1,36 @@
+  15% {
+    -webkit-transform: scale(.75142, 1.34118) translate3d(0, 100%, 0);
+    transform: scale(.75142, 1.34118) translate3d(0, 100%, 0)
+  }
+  20% {
+    -webkit-transform: scale(.96173, 1.36858) translate3d(0, -100%, 0);
+    transform: scale(.96173, 1.36858) translate3d(0, -100%, 0)
+  }
+  25% {
+    -webkit-transform: scale(1.1348, 1.02729) translate3d(0, 100%, 0);
+    transform: scale(1.1348, 1.02729) translate3d(0, 100%, 0)
+  }
+  30% {
+    -webkit-transform: scale(.97038, .71092) translate3d(0, -100%, 0);
+    transform: scale(.97038, .71092) translate3d(0, -100%, 0)
+  }
+  35% {
+    -webkit-transform: scale(.6067, 1.31101) translate3d(0, 100%, 0);
+    transform: scale(.6067, 1.31101) translate3d(0, 100%, 0)
+  }
+  40% {
+    -webkit-transform: scale(.786, .9326) translate3d(0, -100%, 0);
+    transform: scale(.786, .9326) translate3d(0, -100%, 0)
+  }
+  45% {
+    -webkit-transform: scale(1.38602, 1.14399) translate3d(0, 100%, 0);
+    transform: scale(1.38602, 1.14399) translate3d(0, 100%, 0)
+  }
+  50% {
+    -webkit-transform: scale(.69973, .90412) translate3d(0, -100%, 0);
+    transform: scale(.69973, .90412) translate3d(0, -100%, 0)
+  }
+  51% {
+    -webkit-transform: scale(1, 1) translate3d(0, 0, 0);
+    transform: scale(1, 1) translate3d(0, 0, 0);
+    -webkit-filter: brightness(1) saturate(1);
